@@ -1,5 +1,5 @@
 # DatasetGenerator
  It helps to create dataset by capturing frames from video.
 
- <b> -> </b> Add the video you want to frame in the same directory as main.py <br>
- -> When you run the main.py file, a data folder is created and the .jpg files are saved there.
+    -> Add the video you want to frame in the same directory as main.py <br>
+    -> When you run the main.py file, a data folder is created and the .jpg files are saved there.
